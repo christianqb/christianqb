@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @christianqb
+- 👀 I’m interested in javascript,frontend...
+- 🌱 I’m currently learning javascript, html, css...
+- 💞️ I’m looking to collaborate on javascript
+- 📫 How to reach me christianqbrito@gmail.com
+
